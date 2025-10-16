@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitMaster</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_workouts">Workouts</string>
+    <string name="nav_exercises">Exercises</string>
+    <string name="nav_training">Training</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Screens -->
+    <string name="home_title">FitMaster</string>
+    <string name="exercises_title">Exercises</string>
+    <string name="exercise_detail_title">Exercise Details</string>
+    <string name="workout_plan_title">New Workout Plan</string>
+    <string name="active_workout_title">Workout</string>
+    <string name="rest_timer_title">Rest</string>
+    <string name="profile_title">Profile</string>
+    
+    <!-- Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_add">Add</string>
+    <string name="action_start">Start</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_complete">Complete</string>
+    
+    <!-- Exercise -->
+    <string name="exercise_description">Description</string>
+    <string name="exercise_technical_tips">Technical Tips</string>
+    <string name="exercise_sets">Sets</string>
+    <string name="exercise_reps">Reps</string>
+    <string name="exercise_rest">Rest</string>
+    
+    <!-- Workout -->
+    <string name="workout_series">Series %1$d/%2$d</string>
+    <string name="workout_series_completed">Series Completed</string>
+    <string name="workout_duration">Duration: %1$d minutes</string>
+    
+    <!-- Profile -->
+    <string name="profile_personal_info">Personal Information</string>
+    <string name="profile_body_measurements">Body Measurements</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_age">Age</string>
+    <string name="profile_sex">Sex</string>
+    <string name="profile_weight">Weight (kg)</string>
+    <string name="profile_height">Height (cm)</string>
+    <string name="profile_goal">Goal</string>
+    <string name="profile_chest">Chest (cm)</string>
+    <string name="profile_waist">Waist (cm)</string>
+    <string name="profile_biceps">Biceps (cm)</string>
+    <string name="profile_thighs">Thighs (cm)</string>
+    <string name="profile_save_changes">Save Changes</string>
+    
+    <!-- Goals -->
+    <string name="goal_muscle_gain">Muscle Gain</string>
+    <string name="goal_fat_loss">Fat Loss</string>
+    <string name="goal_maintenance">Maintenance</string>
+    
+    <!-- Search -->
+    <string name="search_exercises">Search exercises</string>
+    
+    <!-- Filters -->
+    <string name="filter_muscle_group">Muscle Group</string>
+    <string name="filter_difficulty">Difficulty</string>
+    
+    <!-- Messages -->
+    <string name="no_active_plan">No active plan</string>
+    <string name="create_workout_plan">Create Workout Plan</string>
+</resources>

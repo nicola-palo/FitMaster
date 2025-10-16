@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fitmaster.app-mergeDebugResources-56:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nicol\\Desktop\\Wa\\sport-app\\android\\app\\src\\main\\res\\values-night\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "46",
+                        "endOffsets": "146"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                }
+            ]
+        }
+    ]
+}

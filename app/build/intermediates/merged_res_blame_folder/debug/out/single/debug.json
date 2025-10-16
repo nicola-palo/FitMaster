@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.fitmaster.app-merged_res-58:/drawable_ic_launcher.xml.flat",
+        "source": "com.fitmaster.app-main-60:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.fitmaster.app-merged_res-58:/drawable_ic_fitness.xml.flat",
+        "source": "com.fitmaster.app-main-60:/drawable/ic_fitness.xml"
+    },
+    {
+        "merged": "com.fitmaster.app-merged_res-58:/xml_backup_rules.xml.flat",
+        "source": "com.fitmaster.app-main-60:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.fitmaster.app-merged_res-58:/xml_data_extraction_rules.xml.flat",
+        "source": "com.fitmaster.app-main-60:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.fitmaster.app-merged_res-58:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.fitmaster.app-main-60:/drawable/ic_launcher_foreground.xml"
+    }
+]
